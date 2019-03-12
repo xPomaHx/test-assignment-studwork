@@ -1,10 +1,13 @@
 # test
 
 > My sublime Nuxt.js project
+> доступны только страницы
+> /starships
+> /starships/:id
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
